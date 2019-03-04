@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\tp5\tp5\bin\Debug\netcoreapp2.1\tp5.deps.json
+C:\Users\Jeff\source\repos\tp5\tp5\bin\Debug\netcoreapp2.1\tp5.runtimeconfig.json
+C:\Users\Jeff\source\repos\tp5\tp5\bin\Debug\netcoreapp2.1\tp5.runtimeconfig.dev.json
+C:\Users\Jeff\source\repos\tp5\tp5\bin\Debug\netcoreapp2.1\tp5.dll
+C:\Users\Jeff\source\repos\tp5\tp5\obj\Debug\netcoreapp2.1\tp5.csprojAssemblyReference.cache
+C:\Users\Jeff\source\repos\tp5\tp5\obj\Debug\netcoreapp2.1\tp5.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\tp5\tp5\obj\Debug\netcoreapp2.1\tp5.RazorAssemblyInfo.cache
+C:\Users\Jeff\source\repos\tp5\tp5\obj\Debug\netcoreapp2.1\tp5.RazorAssemblyInfo.cs
+C:\Users\Jeff\source\repos\tp5\tp5\obj\Debug\netcoreapp2.1\tp5.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\tp5\tp5\obj\Debug\netcoreapp2.1\tp5.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\tp5\tp5\obj\Debug\netcoreapp2.1\tp5.RazorTargetAssemblyInfo.cache
+C:\Users\Jeff\source\repos\tp5\tp5\bin\Debug\netcoreapp2.1\tp5.pdb
+C:\Users\Jeff\source\repos\tp5\tp5\obj\Debug\netcoreapp2.1\tp5.dll
+C:\Users\Jeff\source\repos\tp5\tp5\obj\Debug\netcoreapp2.1\tp5.pdb
