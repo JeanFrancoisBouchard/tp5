@@ -35,14 +35,14 @@ namespace tp5.Controllers
         }
 
         [HttpPost("login")]
-        public ActionResult login([FromBody]User user)
+        public ActionResult<string> login([FromBody]User user)
         {
             if(_userService.login(user))
             {
                 string token = Convert.ToBase64String(Guid.NewGuid().ToByteArray());
                 HttpContext.Session.SetString("token", token);
 
-                return StatusCode(200);
+                return token;
             }
             else
             {
@@ -61,7 +61,7 @@ namespace tp5.Controllers
         [HttpGet("secret")]
         public ActionResult<string> secret([FromBody]dynamic token)
         {
-            if (token != null && token == HttpContext.Session.GetString("token"))
+            if (checkToken(Convert.ToString(token["token"])))
             {
                 return "check son pouce, y curve";
             }
@@ -69,6 +69,11 @@ namespace tp5.Controllers
             {
                 return StatusCode(403);
             }
+        }
+
+        private bool checkToken(string token)
+        {
+            return token != null && token == HttpContext.Session.GetString("token");
         }
     }
 }

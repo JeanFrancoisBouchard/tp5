@@ -8930,12 +8930,11 @@
       ]
     },
     "System.ComponentModel/4.0.1": {
-      "sha512": "3AOvy/bB7s8yAkolZOlqGeLDrPySuYsgkk7hKIBWn5a/Le7V16PDYQIzj7w7hi4UUXXmEmN/ZehNlAi5eD9r5w==",
+      "sha512": "oBZFnm7seFiVfugsIyOvQCWobNZs7FzqDV/B7tx20Ep/l3UUFCPDkdTnCNaJZTU27zjeODmy2C/cP60u3D4c9w==",
       "type": "package",
       "path": "system.componentmodel/4.0.1",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -13739,23 +13738,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jeff\\.nuget\\packages\\": {},
+    "C:\\Users\\usager\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeff\\source\\repos\\tp5\\tp5\\tp5.csproj",
+      "projectUniqueName": "C:\\Users\\usager\\source\\tp5\\tp5\\tp5.csproj",
       "projectName": "tp5",
-      "projectPath": "C:\\Users\\Jeff\\source\\repos\\tp5\\tp5\\tp5.csproj",
-      "packagesPath": "C:\\Users\\Jeff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeff\\source\\repos\\tp5\\tp5\\obj\\",
+      "projectPath": "C:\\Users\\usager\\source\\tp5\\tp5\\tp5.csproj",
+      "packagesPath": "C:\\Users\\usager\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\usager\\source\\tp5\\tp5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jeff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\usager\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
